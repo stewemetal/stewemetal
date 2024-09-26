@@ -3,7 +3,7 @@ A long-time mobile device and Android enthusiast, working with Android and invol
 Currently being:
 - Staff Android Engineer at [Circuit](https://getcircuit.com)
 - Co-organizer for the [Android Budapest](https://androidbudapest.com) meetup group
-- Public speaker at conferences and meetups, find my [talks](https://www.istvanjuhos.dev/talks/) on my website.
+- Public speaker at conferences and meetups, find my [talks](https://www.istvanjuhos.dev/talks/) on my website
 
 Previously involved with:
 - University instructor at [BME-VIK](https://www.vik.bme.hu/), teaching Android and Flutter
