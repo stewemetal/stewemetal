@@ -1,16 +1,13 @@
-## Hi there 👋
+A long-time mobile device and Android enthusiast, working with Android and involved in the Android community since my early university days.
 
-<!--
-**stewemetal/stewemetal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently being:
+- Staff Android Engineer at (Circuit)[https://getcircuit.com]
+- Co-organizer for the (Android Budapest)[https://androidbudapest.com] meetup group
+- Public speaker at conferences and meetups, find my [talks](https://www.istvanjuhos.dev/talks/) on my website.
 
-Here are some ideas to get you started:
+Previously involved with:
+- University instructor at [BME-VIK](https://www.vik.bme.hu/), teaching Android and Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously seen at [FAIRTIQ](https://fairtiq.com/), [TIER](https://www.tier.app/) (by the acquisition of [Makery](https://www.makery.co/)), [AutSoft](https://github.com/AutSoft), [Nokia](https://www.nokia.com/networks/)
+
+Follow me on [Mastodon](https://androiddev.social/@stewemetal), [LinkedIn](https://www.linkedin.com/in/istvan-juhos/), or [X](https://x.com/stewemetal).
