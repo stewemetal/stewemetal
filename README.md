@@ -1,8 +1,8 @@
 A long-time mobile device and Android enthusiast, working with Android and involved in the Android community since my early university days.
 
 Currently being:
-- Staff Android Engineer at (Circuit)[https://getcircuit.com]
-- Co-organizer for the (Android Budapest)[https://androidbudapest.com] meetup group
+- Staff Android Engineer at [Circuit](https://getcircuit.com)
+- Co-organizer for the [Android Budapest](https://androidbudapest.com) meetup group
 - Public speaker at conferences and meetups, find my [talks](https://www.istvanjuhos.dev/talks/) on my website.
 
 Previously involved with:
