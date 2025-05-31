@@ -8,6 +8,6 @@ Currently being:
 Previously involved with:
 - University instructor at [BME-VIK](https://www.vik.bme.hu/), teaching Android and Flutter
 
-Previously seen at [FAIRTIQ](https://fairtiq.com/), [TIER](https://www.tier.app/) (by the acquisition of [Makery](https://www.makery.co/)), [AutSoft](https://github.com/AutSoft), [Nokia](https://www.nokia.com/networks/).
+Previously seen at [FAIRTIQ](https://fairtiq.com/), [TIER](https://www.tier.app/) (by the acquisition of [Makery](https://www.makery.co/)), [AutSoft](https://github.com/AutSoft), [Nokia Solutions and Networks](https://www.nokia.com/networks/).
 
-Follow me on [Mastodon](https://androiddev.social/@stewemetal), [LinkedIn](https://www.linkedin.com/in/istvan-juhos/), or [X](https://x.com/stewemetal).
+Follow me on [BlueSky](https://bsky.app/profile/istvanjuhos.dev), [LinkedIn](https://www.linkedin.com/in/istvan-juhos/), [Mastodon](https://androiddev.social/@stewemetal), or [X](https://x.com/stewemetal).
